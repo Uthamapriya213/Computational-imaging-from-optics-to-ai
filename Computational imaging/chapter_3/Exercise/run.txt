@@ -1,0 +1,50 @@
+
+# Improvements You Can Add Later
+
+## Imaging
+
+- Total variation denoising
+- Richardson-Lucy deconvolution
+- Fourier optics propagation
+- Light field simulation
+- Ptychography
+
+## Machine Learning
+
+- Learned reconstruction
+- CNN denoisers
+- Deep compressed sensing
+- Physics-informed neural networks
+
+## Software Engineering
+
+- Object-oriented design
+- Config files
+- Experiment logging
+- GPU acceleration
+- PyTorch implementations
+- Unit tests
+
+---
+
+# Why This Version is Better
+
+Your original code works well for experimentation.
+
+This refactored version is more suitable for:
+
+- GitHub portfolios
+- research repositories
+- reusable pipelines
+- collaborative projects
+- adding future algorithms
+- converting into PyTorch later
+
+The key improvements are:
+
+- modular structure
+- reusable functions
+- separation of concerns
+- cleaner main script
+- easier debugging
+- easier scaling
