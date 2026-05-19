@@ -27,7 +27,4 @@ This repository contains implementations of classical computational imaging meth
 - L2 least squares reconstruction
 - Error analysis
 
-## Installation
 
-```bash
-pip install -r requirements.txt
